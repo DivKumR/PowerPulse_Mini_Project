@@ -1,4 +1,4 @@
-# Guvi_Project3
+# PowerPulse energy forecasting model
 **Project Description**
 PowerPulse is a machine learning-based energy forecasting model designed to predict household energy consumption using historical data.
 Predicting energy usage accurately enables better planning, cost reduction, and resource optimization.
